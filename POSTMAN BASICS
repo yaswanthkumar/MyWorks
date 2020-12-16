@@ -1,0 +1,13 @@
+When working with an API there's always so much to remember, different URLs for different environments, as well as the shape that each request should take.
+PostMan give us that leverage to build,test and Maintain the Api which are create in our projects with out any burden 
+there are many features that are available in post man tool that helps in our day to day testing.
+
+post man tool have below benifits 
+Accessibility- One can use it anywhere after installing Postman into the device by simply logging in to the account.
+Use Collections-Postman allows users to build collections for their API-calls. Every set can create multiple requests and subfolders. It will help to organize the test suites.
+Test development- To test checkpoints, verification of successful HTTP response status shall be added to every API- calls.
+Automation Testing-Tests can be performed in several repetitions or iterations by using the Collection Runner or Newman, which saves time for repeated tests.
+Creating Environments- The design of multiple environments results in less replication of tests as one can use the same collection but for a different setting.
+Debugging- To effectively debug the tests, the postman console helps to track what data is being retrieved.
+Collaboration- You can import or export collections and environments to enhance the sharing of files. You may also use a direct connection to share the collections.
+Continuous integration-It can support continuous integration.
